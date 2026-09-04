@@ -10,6 +10,7 @@
 *.apk
 *.ap_
 *.aab
+*.bin
 
 # OS
 .DS_Store
