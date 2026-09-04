@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#1B1B3A</color>
+    <string name="app_name">ジャグラー設定判別</string>
+    <style name="Theme.JugglerSettei" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
